@@ -1,12 +1,12 @@
 jakies rep cos tam cos tam cos tam
 
-Kolor: rurzowy
+Kolor: różowy
 
-Ksiaonszka: brak
+Książka: brak
 
 Muzyka/sztuka/artysta: MOBBYN
 
-film: MINECRAFT
+Film: MINECRAFT
 
 ### Zadanie 1 - popraw błędy ortograficzne w README
 
